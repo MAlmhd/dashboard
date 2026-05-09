@@ -1,17 +1,32 @@
-# dashboard
+# Electrical Tools Maintenance System – Dashboard
 
-A new Flutter project.
+This is the **admin dashboard** for managing the maintenance of electrical tools.
 
-## Getting Started
+## Features
+- Admin authentication (login)
+- Manage companies, customers, and technicians
+- Track maintenance requests
+- Generate reports and receipts
+- Real-time notifications using Firebase
 
-This project is a starting point for a Flutter application.
+## Technologies
+- **Framework:** Flutter (Web/Windows/Linux/macOS)
+- **State Management:** Cubit
+- **Backend Integration:** RESTful APIs
+- **Notifications:** Firebase Cloud Messaging
+- **Version Control:** Git & GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run -d chrome` (for web) or any platform
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Team
+- Majd Al-Saeed (Frontend & API Integration)
+- 2 other team members (Backend & Database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# dashboard" 
+## Project Timeline
+June 2024 – July 2024
+
+## Related Mobile App
+[maintenance_app](https://github.com/magd110/maintenance_app)
